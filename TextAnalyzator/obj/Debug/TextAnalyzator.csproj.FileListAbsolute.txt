@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\TextAnalyzator\TextAnalyzator\bin\Debug\TextAnalyzator.exe.config
+C:\Users\Acer\source\repos\TextAnalyzator\TextAnalyzator\bin\Debug\TextAnalyzator.exe
+C:\Users\Acer\source\repos\TextAnalyzator\TextAnalyzator\bin\Debug\TextAnalyzator.pdb
+C:\Users\Acer\source\repos\TextAnalyzator\TextAnalyzator\obj\Debug\TextAnalyzator.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\TextAnalyzator\TextAnalyzator\obj\Debug\TextAnalyzator.Form1.resources
+C:\Users\Acer\source\repos\TextAnalyzator\TextAnalyzator\obj\Debug\TextAnalyzator.Properties.Resources.resources
+C:\Users\Acer\source\repos\TextAnalyzator\TextAnalyzator\obj\Debug\TextAnalyzator.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\TextAnalyzator\TextAnalyzator\obj\Debug\TextAnalyzator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TextAnalyzator\TextAnalyzator\obj\Debug\TextAnalyzator.exe
+C:\Users\Acer\source\repos\TextAnalyzator\TextAnalyzator\obj\Debug\TextAnalyzator.pdb
